@@ -568,14 +568,8 @@ This project aims to bring those resources together in one community-maintained 
 
 * [Awesome WooCommerce](https://github.com/topics/woocommerce)
 * [Awesome WordPress](https://github.com/sindresorhus/awesome-wordpress)
-* [Awesome Headless Commerce](https://github.com/notrab/awesome-headless-commerce)
 
 ---
 
-## License
-
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
-
----
 
 **If this list helps you build your WooCommerce marketplace, give it a ⭐ and contribute a useful resource.**
