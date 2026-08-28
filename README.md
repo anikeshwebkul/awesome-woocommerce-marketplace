@@ -41,7 +41,7 @@ The core plugins for turning WooCommerce into a **multi-vendor marketplace**.
 
 A feature-rich WooCommerce marketplace solution for creating multi-seller stores with vendor dashboards, commissions, product management, order management, withdrawals, vendor storefronts, and marketplace administration.
 
-**Best for:** Custom marketplace implementations, agencies, growing businesses, and enterprise-oriented marketplaces.
+**Best for:** All types of marketplaces, Custom marketplace implementations, agencies, growing businesses, and enterprise-oriented marketplaces.
 
 ### [Dokan](https://dokan.co/)
 
